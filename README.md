@@ -1,39 +1,36 @@
 # Blog App
 
-Table of Contents
+This is a Blog webApp project built with Ruby on Rails in accordance with [Microverse](https://www.microverse.org/) requirements. You can also check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
 
-**Introduction**
+**Blog Image**
 
-**Built With**
+![Image](blog.png)
 
-**Set up and Configuration**
+# Built With
 
-**Author**
+*  Ruby 2.5.3
 
-**Contribution**
+*  Rails ~> 5.1.7 
 
-* Introduction
+*  Heroku
 
-This is a Blog App project built with Ruby on Rails. Check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
+*  Visual Studio Code
 
-
-![Image](blog.png, Blog App)
-
-* Built With
-Ruby 2.5.3  
-Rails ~> 5.1.7  
-
-* Set up and Configuration
+# Set up and Configuration
 
     $ git clone https://github.com/mihrab34/Blog-app
+
     $ cd  blog-app
+
     $ run bundle install to install all dependencies in the gem file
+
     $ run rails server
 
-* Author
+# Author
+
 [@mihrab34](https://github.com/mihrab34)
 
-* Contribution
+# Contribution
 
 Any contributions are **greatly appreciated**
 
