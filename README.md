@@ -2,20 +2,22 @@
 
 # Table of Contents
 
+# Introduction
+
+# Built With
+
+# Set up and Configuration
+
+# Author
+
+# Contribution
+
+
 **Introduction**
 
-**Built With**
+This is a Blog App project built with Ruby on Rails in accordance with [Microverse](https://www.microverse.org/) requirements. You can also check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
 
-**Set up and Configuration**
-
-**Author**
-
-**Contribution**
-
-**Introduction**
-
-This is a Blog App project built with Ruby on Rails. Check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
-
+Blog Image
 
 ![Image](blog.png)
 
@@ -39,7 +41,7 @@ This is a Blog App project built with Ruby on Rails. Check out [the odin project
 
 [@mihrab34](https://github.com/mihrab34)
 
-* Contribution
+**Contribution**
 
 Any contributions are **greatly appreciated**
 
