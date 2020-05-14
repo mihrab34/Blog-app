@@ -1,6 +1,6 @@
 # Blog App
 
-Table of Contents
+# Table of Contents
 
 **Introduction**
 
@@ -12,25 +12,31 @@ Table of Contents
 
 **Contribution**
 
-* Introduction
+**Introduction**
 
 This is a Blog App project built with Ruby on Rails. Check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
 
 
-![Image](blog.png, Blog App)
+![Image](blog.png)
 
-* Built With
-Ruby 2.5.3  
-Rails ~> 5.1.7  
+**Built With**
 
-* Set up and Configuration
+*  Ruby 2.5.3
+
+*  Rails ~> 5.1.7  
+
+**Set up and Configuration**
 
     $ git clone https://github.com/mihrab34/Blog-app
+
     $ cd  blog-app
+
     $ run bundle install to install all dependencies in the gem file
+
     $ run rails server
 
-* Author
+**Author**
+
 [@mihrab34](https://github.com/mihrab34)
 
 * Contribution
