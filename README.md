@@ -1,9 +1,6 @@
 # Blog App
 
-
-# Introduction
-
-This is a Blog App project built with Ruby on Rails in accordance with [Microverse](https://www.microverse.org/) requirements. You can also check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
+This is a Blog webApp project built with Ruby on Rails in accordance with [Microverse](https://www.microverse.org/) requirements. You can also check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
 
 **Blog Image**
 
