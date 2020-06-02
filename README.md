@@ -2,6 +2,8 @@
 
 This is a Blog webApp project built with Ruby on Rails in accordance with [Microverse](https://www.microverse.org/) requirements. You can also check out [the odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) for more information.
 
+Check Out [blog-app](https://lola-blog-app.herokuapp.com/) for the live version.
+
 **Blog Image**
 
 ![Image](blog.png)
